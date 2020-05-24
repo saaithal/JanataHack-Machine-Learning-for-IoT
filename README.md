@@ -3,6 +3,8 @@ IoT devices are becoming popular nowadays. The widespread use of IoT yields huge
 ML is becoming an essential player in a growing array of process areas involving image recognition, natural language processing, forecasting, prediction, and process optimization. ML is evolving to the point of being able to draw interesting patterns and inferences from these real time data streams, and make those results available to analysts as well as to embed them directly in business processes.
 
 ## Problem Statement
+The client wants to understand how traffic situations are changing over time and is interested to plan the traffic systems at some of the busiest junctions. Therefore, the client wants to find out the volume of traffic through the 4 junctions in the coming four months. 
+The metric for measurement would be RMSE.
 In this problem, we have to forecast the traffic in 4 junctions for 4 months. We have hour level data of junctions `1`,`2`, and `3` from `2015-11-01 00:00:00` to `2017-06-30 23:00:00` and hour level data of junction `4` from `2017-01-01 00:00:00` to `2017-06-30 23:00:00`.  
 
 ## References
