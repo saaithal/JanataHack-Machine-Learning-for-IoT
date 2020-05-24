@@ -29,12 +29,12 @@ import scipy.stats as scs
 
 
 ```python
-df = pd.read_csv("C:\\Users\\Sameeksha Aithal\\Google Drive\\Practice\\Datasets\\IoT\\train_aWnotuB.csv")
+df = pd.read_csv("train_aWnotuB.csv")
 ```
 
 
 ```python
-final = pd.read_csv("C:\\Users\\Sameeksha Aithal\\Google Drive\\Practice\\Datasets\\IoT\\test_BdBKkAj_L87Nc3S.csv")
+final = pd.read_csv("test_BdBKkAj_L87Nc3S.csv")
 ```
 
 ## Basic Data Checks
